@@ -1,0 +1,44 @@
+.background{
+    background-image: url("foto/WhatsApp\ Image\ 2024-01-27\ at\ 00.23.33\ \(1\).jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 350;
+}
+
+.color-gradient {
+    background-image: linear-gradient(to bottom right, #c40909, #3b0303);
+}
+
+.kai-bg{
+    background-image: linear-gradient(to bottom right, #2307d6, #0f0771); 
+}
+
+.jude-bg{
+    background-color: black;
+}
+
+.h1-kai{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.text-kai{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+body{
+    background-color: #3b0303;
+}
+
+button{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+button:hover{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;    
+}
